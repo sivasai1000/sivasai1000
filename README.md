@@ -36,7 +36,7 @@ Interests : Problem-Solving, Competitive Programming, Open-Source Contributions,
 
 ## 📫 **Reach Me At**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivasaimallipudi9h@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallipudi-devi-siva-sai-913987249)  
 
 ---
 
